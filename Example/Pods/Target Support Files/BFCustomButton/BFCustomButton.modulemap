@@ -1,0 +1,6 @@
+framework module BFCustomButton {
+  umbrella header "BFCustomButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

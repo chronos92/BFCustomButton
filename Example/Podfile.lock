@@ -1,0 +1,14 @@
+PODS:
+  - BFCustomButton (0.1.0)
+
+DEPENDENCIES:
+  - BFCustomButton (from `../`)
+
+EXTERNAL SOURCES:
+  BFCustomButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BFCustomButton: fb8318e88ac63c01ea0a56c0300a61200364d3a2
+
+COCOAPODS: 0.39.0
